@@ -12,6 +12,37 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kumardebasis2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardebasis2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎓 Education  
+
+**CV Raman Global University, Bhubaneswar** (2021 – 2025)  
+- B.Tech in Computer Science & Engineering – CGPA: 7.4  
+
+**Driems Science Higher Secondary School, Tangi** (2019 – 2021)  
+- 12th Science – 72%  
+
+**Saraswati Vidyamandir, Gatirout Patna** (2019)  
+- 10th – 68.3%
+## 💼 Professional Experience  
+
+**Flasho Tech Consultancy Services – Junior Backend Developer**  
+📍 *Bhubaneswar | Mar 2025 – Present*  
+- Built REST APIs with Django REST + PostgreSQL, supporting 1,000+ daily users.  
+- Automated messaging workflows (Email, SMS, WhatsApp) → reduced manual effort by 70%.  
+- Architected microservices on AWS EC2 with 99.9% uptime.  
+- Implemented Celery + Redis to process 5K async jobs/day.  
+
+**East Coast Railway – Web Developer Intern** *(Jun 2024 – Jul 2024)*  
+- Built a Complaint Management System (React + Node.js + MySQL) for 500+ employees.  
+- Optimized backend queries, reducing response time by 20%.  
+  
+## 🏆 Achievements  
+
+- IEEE Publication: *“Early Brain Tumor Detection in MRI”* (2025)  
+- Cisco CCNAv7 Certified  
+- GitHub & Cloud certifications (Coursera)  
+- Smart India Hackathon (2022) – Built an education prototype  
+- Open Source Contributor – Python/Django projects  
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumardebasis2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -25,3 +56,5 @@
 [![](https://visitcount.itsvg.in/api?id=kumardebasis2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Fun Fact  
+I can talk on anything 😃  
