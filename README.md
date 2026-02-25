@@ -25,7 +25,7 @@
 ## 💼 Professional Experience  
 
 **Flasho Tech Consultancy Services – Junior Backend Developer**  
-📍 *Bhubaneswar | Mar 2025 – Present*  
+📍 *Bhubaneswar | Mar 2025 – Oct 2025
 - Built REST APIs with Django REST + PostgreSQL, supporting 1,000+ daily users.  
 - Automated messaging workflows (Email, SMS, WhatsApp) → reduced manual effort by 70%.  
 - Architected microservices on AWS EC2 with 99.9% uptime.  
